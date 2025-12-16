@@ -1,0 +1,15 @@
+# YOLO training outputs
+runs/
+
+# Model weights
+*.pt
+
+# Large files
+*.zip
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
