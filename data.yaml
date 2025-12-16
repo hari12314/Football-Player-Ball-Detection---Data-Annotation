@@ -1,0 +1,7 @@
+path: /kaggle/working/football_yolo
+train: images
+val: images
+
+names:
+  0: player
+  1: football
